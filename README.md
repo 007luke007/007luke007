@@ -19,6 +19,10 @@ ___negrito e italico___
 - Lista 2
   - Sublista
 
+1. Lista 1
+2. Lista 2
+    1. Sublista
+
 
 
 
