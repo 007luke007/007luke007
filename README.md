@@ -26,32 +26,30 @@ Como um Neo em treinamento no universo da programação, estou constantemente bu
 Navegue pelas minhas áreas de expertise.
 
 **Linguagens:**
-`![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)`
-`![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)`
-`![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)`
-`![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
 **Frameworks & Bibliotecas:**
-`![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)`
-`![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)`
-`![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 
 **Ferramentas & Tecnologias:**
-`![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)`
-`![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)`
-`![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)`
-`![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)`
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 ---
 
 ### 📈 Estatísticas do GitHub (Seus Dados na Matriz)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=007luke007&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007luke007&layout=compact&theme=dark" alt="Top Langs">
 </div>
 
-*Substitua `SEU-USUARIO` pelo seu nome de usuário GitHub para que as estatísticas funcionem.*
+
 
 ---
 
